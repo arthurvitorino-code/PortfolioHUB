@@ -36,3 +36,17 @@ Depois da publicação, adicionar o projeto ao perfil do LinkedIn na seção de 
 
 ## Observação
 Os campos de usuário do GitHub e LinkedIn precisam ser substituídos pelos links reais do aluno.
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+- Git
+- GitHub
+- GitHub Pages
+
+## Autor
+
+Arthur de Cerqueira Neiva Vitorino
+RA: 22611442
+Curso: Engenharia de Software
